@@ -1,24 +1,6 @@
-# README
+# Dashboard Monitor for Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails visual dashboard monitor using Grafana and Prometheus. Inspired by a tutorial created by David Åse on Javalin, a Java framework. I decided to follow along with Ruby and Rails instead. The full tutorial can be found here:
 
-Things you may want to cover:
+https://javalin.io/tutorials/prometheus-example-kotlin
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
