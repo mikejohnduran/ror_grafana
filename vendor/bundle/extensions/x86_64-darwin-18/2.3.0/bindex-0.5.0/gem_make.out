@@ -1,0 +1,15 @@
+current directory: /Users/Mike/Desktop/Projects/ruby/prom-example/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/Mike/.rvm/rubies/ruby-2.3.7/bin/ruby -r ./siteconf20180906-56200-126g35s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Mike/Desktop/Projects/ruby/prom-example/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/Mike/Desktop/Projects/ruby/prom-example/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/Mike/Desktop/Projects/ruby/prom-example/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20180906-56200-1aroirt/bindex
